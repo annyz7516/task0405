@@ -1377,7 +1377,7 @@
     }, {
       "id": "eca996ae-45d8-48d4-a78b-bd3c5c798666",
       "comment": "",
-      "command": "assertText",
+      "command": "verifyText",
       "target": "css=.total",
       "targets": [],
       "value": "Total: 1242.87"
